@@ -1,3 +1,18 @@
-header {
-  background-color: #F5EFEE;
+body {
+  background: #EEE;
 }
+
+#container { 
+  background color: #FFF;
+  width: 800 px
+  margin-left: auto;
+  margin-right: 
+}
+
+#header { 
+  background color: #F8F6F5;
+  color: white;
+  align: left;
+}
+  
+
