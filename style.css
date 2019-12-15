@@ -1,11 +1,12 @@
-body {
+body { 
+  background: white;
+}
+header {
   background:#F8F6F5;
   border-bottom: 10px solid black; 
 }
 
-header { 
-  background: white;
-}
+
 
 
 
