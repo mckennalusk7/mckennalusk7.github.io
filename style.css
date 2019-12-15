@@ -2,14 +2,14 @@ body {
   background: #EEE;
 }
 
-#container { 
+container { 
   background color: #FFF;
-  width: 800 px
+  width: 800px
   margin-left: auto;
-  margin-right: 
+  margin-right: auto;
 }
 
-#header { 
+header { 
   background color: #F8F6F5;
   color: white;
   align: left;
