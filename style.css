@@ -1,6 +1,8 @@
 header { 
   background: white;
   border: 10px solid black;
+  margin-left: auto;
+  margin-right: auto;
 }
 body {
  background: #F2F0EF;
