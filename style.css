@@ -1,5 +1,6 @@
 body { 
-  background: #F8F6F5;
+  background: white;
+  border: 10px solid black;
 }
 header {
   background:#F8F6F5;
