@@ -5,7 +5,10 @@ header {
   background:#F8F6F5;
   border: 10px solid black; 
 }
-
+content {
+  background: white;
+  border: 10px solid black;
+}
 
 
 
